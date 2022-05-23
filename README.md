@@ -1,5 +1,5 @@
 # SVF-Teaching
-Learning and Teaching Software Analysis, Verification and AI via SVF
+Learning and Teaching Software Analysis, Verification and AI via [SVF](https://github.com/SVF-tools/SVF)
 
 [Sofware Analysis Course](https://github.com/SVF-tools/Teaching-Software-Analysis)
 
